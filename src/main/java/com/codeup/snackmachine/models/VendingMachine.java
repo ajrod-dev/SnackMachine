@@ -4,13 +4,13 @@ import java.util.*;
 
 public class VendingMachine {
 
-    private double bank;
+    private double account;
 
     private double refund;
     private List<Item> inventory;
 
     public VendingMachine(double bank, List<Item> inventory) {
-        this.bank = bank;
+        this.account = account;
         this.inventory = inventory;
     }
 
