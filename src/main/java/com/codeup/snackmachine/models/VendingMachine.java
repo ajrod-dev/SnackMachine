@@ -7,9 +7,9 @@ public class VendingMachine {
     private double account;
 
     private double refund;
-    private List<Item> inventory;
+    private Inventory inventory;
 
-    public VendingMachine(double bank, List<Item> inventory) {
+    public VendingMachine(double bank, Inventory inventory) {
         this.account = account;
         this.inventory = inventory;
     }
