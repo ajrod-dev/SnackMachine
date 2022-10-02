@@ -19,3 +19,12 @@ VALUES('Fritos', 1.25);
 
 INSERT INTO items(name, cost)
 VALUES('Cheese-Itz', 1.25);
+
+INSERT INTO items(name, cost)
+VALUES('Cheese-Itz', 1.25);
+
+INSERT INTO items(name, cost)
+VALUES('Cheese-Itz', 1.25);
+
+INSERT INTO items(name, cost)
+VALUES('Cheese-Itz', 1.25);
